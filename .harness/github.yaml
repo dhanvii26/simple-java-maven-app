@@ -1,0 +1,5 @@
+service:
+  name: github
+  identifier: github
+  orgIdentifier: default
+  projectIdentifier: default_project
